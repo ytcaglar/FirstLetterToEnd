@@ -1,0 +1,30 @@
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.exe
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.pdb
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\refint\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.pdb
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\FirstLetterToEnd\obj\Debug\net7.0\ref\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\bin\Debug\net7.0\FirstLetterToEnd.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\refint\FirstLetterToEnd.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\FirstLetterToEnd.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Kolay Seviye Projeler\FirstLetterToEnd\obj\Debug\net7.0\ref\FirstLetterToEnd.dll
